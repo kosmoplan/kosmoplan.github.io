@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "0000_where_i_am"
+date:   2018-01-06 22:00:00 +0200
+categories: helloworld location 
+---
+
+## :~$ pwd&#9608;
+Oslo, Norway, Europe, Earth, Solar System, Gould Belt, Orion Arm, Milky Way, Local Group, Virgo Supercluster, Local Supercluster. Universe: [Now](https://time.is).
+
+![images/red_light.png](/images/ekeberg_red_light.png "ekebergparken")
+
+_Ekebergparken, Oslo, December 12, 2017 -6&#176;C_
