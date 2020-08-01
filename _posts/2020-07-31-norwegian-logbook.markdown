@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "0002_intro"
+title:  "0002_logbook"
 date:   2020-07-31 22:00:00 +0200
-categories: norway travel sognefjord
+categories: extended travel norway sognefjord
 ---
 
 ## :~$ less norway_logbook&#9608;

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "0001_navigation_without_gps"
+title:  "0001_navigation_no_gps"
 date:   2018-01-29 22:00:00 +0200
-categories: navigation 
+categories: micro navigation 
 ---
 
 ## :~$ less gps_position&#9608;
