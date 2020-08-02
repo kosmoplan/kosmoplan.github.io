@@ -4,6 +4,7 @@ title:  "0003_sognefjorden"
 date:   2020-07-31 22:00:00 +0200
 categories: extended travel norway sognefjord
 ---
+
 ## :~$ less sognefjorden
 If you've ever seen a picture of a fjord, chances are it was taken around [Sognefjorden](https://en.wikipedia.org/wiki/Sognefjord): the longest and deepest fjord of them all. This beast of around 205 km long, 4.5 km wide (max) and 1.3 km deep (max) is so incredible that makes a trip to Norway well worth the money just by itself. I'll get into the details of some very interesting towns and things to see in general later, but before getting into business, let's take a [detour](https://www.rottentomatoes.com/m/detour) to understand a thing or two about what does it mean to be a _fjord_. 
 
