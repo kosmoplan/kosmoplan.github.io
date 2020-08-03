@@ -3,8 +3,9 @@ layout: page
 title: Net 
 permalink: /net/
 ---
+A collection of links I find interesting in no particular order...
 
-## :~$ star&#9608;
+## :~$ astro&#9608;
 -[The World At Night](http://twanight.org)
 
 -[Keep The Skies Dark](http://www.darksky.org)

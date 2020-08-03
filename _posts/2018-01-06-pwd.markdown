@@ -10,4 +10,4 @@ Oslo, Norway, Europe, Earth, Solar System, Gould Belt, Orion Arm, Milky Way, Loc
 
 ![images/red_light.png](/images/ekeberg_red_light.png "ekebergparken")
 
-_Ekebergparken, Oslo, December 12, 2017 -6&#176;C_
+<span class="bg">Ekebergparken, Oslo, December 12, 2017 -6&#176;C</span>

@@ -24,4 +24,4 @@ position on the chart.
 Finally, they need an angle-measuring instrument, a <span class="red">**sextant**</span>, to measure the angle of the celestial body
 above a horizontal line of reference.
 
-_Notes from the Fram Museum, Oslo._
+<span class="bg">Notes from the Fram Museum, Oslo</span>
