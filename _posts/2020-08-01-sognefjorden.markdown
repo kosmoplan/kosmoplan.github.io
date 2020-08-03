@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "0003_sognefjorden"
-date:   2020-07-31 22:00:00 +0200
+date:   9999-07-31 22:00:00 +0200
 categories: extended travel norway sognefjord
 ---
 
