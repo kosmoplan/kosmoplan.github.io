@@ -14,7 +14,7 @@ A collection of interesting links in no particular order.
 
 -[Lorenzo Comolli](http://www.astrosurf.com/comolli/index2.htm)
 
-## Missions & Organizations
+## Missions & Orgs
 -[The World At Night](http://twanight.org)
 
 -[Keep The Skies Dark](http://www.darksky.org)
