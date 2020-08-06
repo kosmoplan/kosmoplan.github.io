@@ -14,6 +14,14 @@ A collection of interesting links in no particular order.
 
 -[Lorenzo Comolli](http://www.astrosurf.com/comolli/index2.htm)
 
+-[Emil Ivanov](http://www.emilivanov.com/index2.htm)
+
+-[Dave Jurasevich](http://www.starimager.com/)
+
+-[Steve Richards](http://www.nightskyimages.co.uk/)
+
+-[Rob Gendler](http://www.robgendlerastropics.com/)
+
 ## Missions & Orgs
 -[The World At Night](http://twanight.org)
 
