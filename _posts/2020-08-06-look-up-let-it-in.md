@@ -13,4 +13,6 @@ A <span class="bw">**red light**</span> is turned on in the middle of the night 
 <iframe class="responsive-iframe" src="https://www.youtube.com/embed/k0Hxing7-V0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-_Look up let it in is a quote taken from the book "An astronomer's Tale", by Gary Fildes._
+_Video by [Lorenzo Comolli](http://www.astrosurf.com/comolli/index2.htm)_
+
+_"Look up let it in" is a quote taken from the book "An astronomer's Tale", by Gary Fildes._
