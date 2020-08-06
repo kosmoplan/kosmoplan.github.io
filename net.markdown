@@ -3,8 +3,16 @@ layout: page
 title: Net 
 permalink: /net/
 ---
+A collection of interesting links in no particular order. 
 
-## :~$ star&#9608;
+## :~$ astrophotographers&#9608;
+-[Sarah Wager](https://www.swagastro.com)
+
+-[Rogelio Bernal](http://www.deepskycolors.com)
+
+-[Lionel Majzik](https://www.lionelmajzik.com)
+
+## :~$ astronomy&#9608;
 -[The World At Night](http://twanight.org)
 
 -[Keep The Skies Dark](http://www.darksky.org)

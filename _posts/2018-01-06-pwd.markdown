@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "0000_where_am_i"
+title:  "Where am I?"
 date:   2018-01-06 22:00:00 +0200
 categories: micro astro 
 ---
+No matter where and _when_ you are, if you wanted to contact me and had my street and zip code, you would need to send the letter to...
 
-## :~$ pwd&#9608;
 Oslo, Norway, Europe, Earth, Solar System, Gould Belt, Orion Arm, Milky Way, Local Group, Virgo Supercluster, Local Supercluster. Universe: [Now](https://time.is).
 
-![images/red_light.png](/images/ekeberg_red_light.png "ekebergparken")
+<img src="/images/ekeberg_red_light.png" alt="Red light Ekeberg" class="post-image"/>
 
 _Ekebergparken, Oslo, December 12, 2017 -6&#176;C_

@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "0001_navigation_no_gps"
+title:  "Navigation without GPS"
 date:   2018-01-29 22:00:00 +0200
 categories: micro navigation 
 ---
 
-## :~$ less gps_position&#9608;
 So, what do navigators need in order to find their position on the earth's surface when they don't have a GPS?
 
 They need an <span class="red">**almanac**</span>, prepared by the astronomers to forecast precisely where the heavenly bodies: the sun,
 the moon, planets and navigational stars, are going to be, hour by hour, years into the future, relative to
 the observatory that prepared the almanac - in modern times [Greenwich, England](http://www.visitgreenwich.org.uk/).
+
+<img src="/images/greenwich.jpg" alt="Greenwich Observatory" class="post-image"/>
 
 They need a <span class="red">**chronometer**</span> or some other means of telling the current time at the observatory that was the
 reference point for the data in the almanac.
