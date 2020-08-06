@@ -25,7 +25,7 @@ A collection of interesting links in no particular order.
 -[A Solar Prominence Eruption from SDO](https://apod.nasa.gov/apod/ap190526.html)
 
 ## Look up, let it in
-The <span class="bw">**beauty of the universe**</span> above our heads is sometimes only accesible to those willing to spend the night out, probably freezing. I can't express with words what it means to me to carefully plan my target, pack my equipment and drive away from the city while everyone else sleeps. The moment in which I turn off my car engine and <span class="bw">**I hear the silence**</span>, only broken by the car keys hitting each other and my own breathing. 
+The <span class="bw">**beauty of the universe**</span> above our heads is sometimes only accesible to those willing to spend the night out, probably freezing. I can't express with words what it means to me to carefully plan my target, pack my equipment and drive away from the city while everyone else sleeps. The moment in which I turn off the car's engine and <span class="bw">**I hear the silence**</span>, only broken by the car keys hitting each other and my own breathing. 
 
 A <span class="bw">**red light**</span> is turned on in the middle of the night and I put my gloves on. I get out of the car, turn the radio on and set up my equipment. It's cold, but it doesn't matter, I know I am not alone. I know there are many others, in other places around the globe, following exactly the same steps as I am. It is hard to explain, <span class="bw">**the feeling**</span>. But I got help. 
 
