@@ -2,7 +2,7 @@
 layout: post
 title:  "0003 - Logbook"
 date:   2020-07-31 22:00:00 +0200
-categories: extended travel norway sognefjord
+categories: extended travel norway
 ---
 
 Not too long ago I moved to Norway from the UK. I say not too long ago because that is how it feels, but the truth is it's been almost three years already. During this time I've been able to visit a fair amount of places around the country. Some, of course, better than others, but every single one of them was interesting in a different way. In _its_ way.
