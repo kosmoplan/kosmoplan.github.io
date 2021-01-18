@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "0006 - This is EA2EVN calling CQ, CQ 91"
+title:  "0006 - This is EA2EVN calling CQ CQ"
 date:   2021-01-18 17:53:00 +0100
 categories: extended hamradio 
 ---
