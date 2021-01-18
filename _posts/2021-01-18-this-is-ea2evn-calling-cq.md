@@ -5,7 +5,7 @@ date:   2021-01-18 17:53:00 +0100
 categories: extended hamradio 
 ---
 
-Probably the only thing worth telling from 2020 has been getting <span class="bw">**my ham radio licence**</span>. It is not something I came up with all of a sudden, but it's true I found the extra motivation to study the exam out from all the lockdowns, curfews, and the rest of the COVID-19 jazz.
+One of the few things worth telling from 2020 has been getting <span class="bw">**my ham radio licence**</span>. It is not something I came up with all of a sudden, but it's true I found the extra motivation to study the exam out from all the lockdowns, curfews, and the rest of the COVID-19 jazz.
 
 It's been a short —and full of doubts— trip already but, and this is the reason-to-be of this post, one with a lot of nice and helpful people. It is difficult to know where to start when you have a million different modes, bands, radios, antennas, etc., to trim down so that you can get to buy your first one. After a lot of reading, I got an <span class="bw">**Anytone 878UV+**</span>: 
 
