@@ -24,9 +24,9 @@ email: kosmoplan@mailbox.org
 description: >- # this means to ignore newlines until "baseurl:"
   Random notes on computers, science, music, literature and travel.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://log.kosmoplan.net" # the base hostname & protocol for your site, e.g. http://example.com
+mp3_url_path: "https://log.kosmoplan.net/assets/sound" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-#github_username: kosmoplan
 
 # Build settings
 theme: minima
