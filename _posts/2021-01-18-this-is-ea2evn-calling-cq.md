@@ -7,7 +7,7 @@ categories: extended hamradio
 
 One of the few things worth telling from 2020 has been getting my ham radio licence. It is not something I came up with all of a sudden, but it's true that COVID-19, with all the lockdowns, curfews and restrictions that has brought in general, has given me the extra motivation I needed to get to work and pass the exam. 
 
-So far it's been a short and full of doubts trip, but (and this is the reason-to-be of this post) one with a lot of nice and helpful people along the way. As a beginner, it is difficult to know where to start when you have a million different <span="bw">**modes, bands, radios, antennas**</span> and what not to trim down so that you can get to buy your first radio. After a lot of reading, I got an [Anytone 878UV Plus](http://www.anytone.net/pro_info93.html): 
+So far it's been a short and full of doubts trip, but (and this is the reason-to-be of this post) one with a lot of nice and helpful people along the way. As a beginner, it is difficult to know where to start when you have a million different <span class="bw">**modes, bands, radios, antennas**</span> and what not to trim down so that you can get to buy your first radio. After a lot of reading, I got an [Anytone 878UV Plus](http://www.anytone.net/pro_info93.html): 
 
 <img src="/images/anytone.jpg" alt="anytone" class="post-image"/>
 
