@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "0005 - Look up, let it in"
+title:  "Look up, let it in"
 date:   2020-08-06 20:00:00 +0200
 categories: extended astro 
 ---

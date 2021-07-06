@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "0002 - Navigation without GPS"
+title:  "Navigation without GPS"
 date:   2018-01-29 22:00:00 +0200
 categories: micro navigation 
 ---

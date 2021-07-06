@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "0003 - Logbook"
+title:  "Logbook"
 date:   2020-07-31 22:00:00 +0200
 categories: extended travel norway
 ---

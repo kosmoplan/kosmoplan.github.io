@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "0004 - Why time and longitude?"
+title:  "Why time and longitude?"
 date:   2020-08-06 18:00:00 +0200
 categories: extended science time 
 ---
